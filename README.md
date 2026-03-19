@@ -1,7 +1,6 @@
 
 # Portfolio Website
 
-Un projet de site portfolio construit avec Vite, React (TypeScript) et Tailwind CSS, inspiré du design Figma : https://www.figma.com/design/uzi8L8164UFUcwkwWDDym8/Portfolio-website.
 
 ## 🚀 À propos
 
