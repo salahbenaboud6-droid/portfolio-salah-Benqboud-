@@ -1,6 +1,8 @@
 
 # Portfolio Website
 
+<img width="1914" height="951" alt="image" src="https://github.com/user-attachments/assets/d1413cc8-4110-4d39-b2e4-5d82abbdb571" />
+<img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/335191b1-5128-4c09-b2a2-c55aadf50d6d" />
 
 ## 🚀 À propos
 
